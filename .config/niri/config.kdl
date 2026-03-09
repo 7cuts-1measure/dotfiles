@@ -627,6 +627,9 @@ binds {
     // Powers off the monitors. To turn them back on, do any input like
     // moving the mouse or pressing any other key.
     Mod+Shift+P { power-off-monitors; }
+
+    Mod+Shift+W    { spawn-sh "dms ipc spotlight toggle";  }
+   
 }
 
 include "dms/outputs.kdl"
