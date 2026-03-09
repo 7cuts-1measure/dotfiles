@@ -7,7 +7,7 @@ function fish_greeting
 end
 
 # cannot start with this option :(
-#keychain --eval /home/kapiuser/.ssh/id_ed25519
+keychain --eval | source
 
 
 alias tree='eza --tree --icons'
