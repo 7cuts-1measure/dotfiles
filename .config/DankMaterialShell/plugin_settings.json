@@ -1,6 +1,6 @@
 {
   "dankLauncherKeys": {
-    "enabled": false,
+    "enabled": true,
     "noTrigger": false
   }
 }
