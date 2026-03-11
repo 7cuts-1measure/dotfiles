@@ -6,8 +6,6 @@ function fish_greeting
 #    fastfetch --logo CachyOS_small
 end
 
-# cannot start with this option :(
-keychain --eval | source
 
 
 alias tree='eza --tree --icons'

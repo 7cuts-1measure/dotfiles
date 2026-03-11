@@ -170,8 +170,8 @@
   "browserPickerViewMode": "grid",
   "browserUsageHistory": {
     "firefox": {
-      "count": 5,
-      "lastUsed": 1773070841380,
+      "count": 7,
+      "lastUsed": 1773205274597,
       "name": "Firefox"
     }
   },
@@ -193,7 +193,7 @@
   "dankLauncherV2UnloadOnClose": false,
   "useAutoLocation": false,
   "weatherEnabled": true,
-  "networkPreference": "auto",
+  "networkPreference": "wifi",
   "iconTheme": "System Default",
   "cursorSettings": {
     "theme": "capitaine-cursors-light",
