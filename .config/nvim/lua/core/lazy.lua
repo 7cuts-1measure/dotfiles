@@ -29,8 +29,9 @@ vim.g.maplocalleader = "\\"
 
 -- Setup lazy.nvim
 require("lazy").setup({
-    'ThePrimeagen/vim-be-good',
 
+-----------------------------------------------------------------------------------
+    'ThePrimeagen/vim-be-good',
 -----------------------------------------------------------------------------------------
     {'nvim-lualine/lualine.nvim', dependencies = { 'nvim-tree/nvim-web-devicons' }},
 ------------------------------------------------------------------------------------------
